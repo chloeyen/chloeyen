@@ -1,6 +1,6 @@
 👋 Hi, I’m Chloe Ngo!
 
-🚀 About Me
+🚀 About Me:
 I’m a Computer Science student at Toronto Metropolitan University with a passion for web development, problem-solving, and creating software that makes life easier and more exciting. 
 Born and raised in Hanoi, Vietnam, I’m now exploring my academic and personal growth in Toronto, Canada.
 
