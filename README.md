@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Chloe Ngo!</h1>
+👋 Hi, I’m Chloe Ngo!
 
 🚀 About Me: <br>
 I’m a Computer Science student at Toronto Metropolitan University with a passion for web development, problem-solving, and creating software that makes life easier and more exciting. 
