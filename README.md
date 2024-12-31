@@ -5,21 +5,21 @@ I’m a Computer Science student at Toronto Metropolitan University with a passi
 Born and raised in Hanoi, Vietnam, I’m now exploring my academic and personal growth in Toronto, Canada.
 
 👀 I’m interested in: <br>
-Building web applications that are both functional and user-friendly.
-Learning new technologies to solve real-world problems.
+- Building web applications that are both functional and user-friendly.
+- Learning new technologies to solve real-world problems.
 
 🌱 I’m currently learning: <br>
-React to expand my front-end development skills.
-PowerShell scripting to streamline workflows.
+- React to expand my front-end development skills.
+- PowerShell scripting to streamline workflows.
 
 📫 How to Reach Me: <br>
-Email: chloe.ngo@torontomu.ca
-LinkedIn: Your LinkedIn Profile
-GitHub: github.com/chloeyen
+- Email: chloe.ngo@torontomu.ca
+- LinkedIn: https://www.linkedin.com/in/ngochloe/
+- GitHub: github.com/chloeyen
 
 ⚡ Fun Fact: <br>
-I love travelling and exploring new cultures—I’ve visited several countries in Asia and North America, and I can’t wait to explore Europe next!
-I also enjoy snowboarding during the winter months.
+I’m an avid traveler who loves exploring new cultures—I’ve visited several countries in Asia and North America, and I’m excited to explore Europe next! <br>
+When I’m not coding or studying, you can often find me enjoying the slopes as I love snowboarding during the winter ❄️🏂
 
 <!---
 chloeyen/chloeyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
