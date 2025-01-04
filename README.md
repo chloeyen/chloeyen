@@ -2,7 +2,7 @@
 
 🚀 About Me: <br>
 I’m a Computer Science student at Toronto Metropolitan University with a passion for web development, problem-solving, and creating software that makes life easier and more exciting. 
-Born and raised in Hanoi, Vietnam, I’m now exploring my academic and personal growth in Toronto, Canada.
+
 
 👀 I’m interested in: <br>
 - Building web applications that are both functional and user-friendly.
