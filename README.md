@@ -18,8 +18,7 @@ I’m a 2nd-year Computer Science student at Toronto Metropolitan University wit
 - GitHub: github.com/chloeyen
 
 ⚡ Fun Fact: <br>
-I’m an avid traveler who loves exploring new cultures—I’ve visited several countries in Asia and North America, and I’m excited to explore Europe next! <br>
-When I’m not coding or studying, you can often find me enjoying the slopes as I love snowboarding during the winter ❄️🏂
+I’m an avid traveller who loves exploring new cultures—I’ve visited several countries in Asia and North America, and I’m excited to explore Europe next! <br>
 
 <!---
 chloeyen/chloeyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
