@@ -15,7 +15,6 @@ I’m a 2nd-year Computer Science student at Toronto Metropolitan University wit
 📫 How to Reach Me: <br>
 - Email: chloe.ngo@torontomu.ca
 - LinkedIn: https://www.linkedin.com/in/ngochloe/
-- GitHub: github.com/chloeyen
 
 ⚡ Fun Fact: <br>
 I’m an avid traveller who loves exploring new cultures—I’ve visited several countries in Asia and North America, and I’m excited to explore Europe next! <br>
