@@ -9,8 +9,7 @@ I’m a 2nd-year Computer Science student at Toronto Metropolitan University wit
 - Learning new technologies to solve real-world problems.
 
 🌱 I’m currently learning: <br>
-- React to expand my front-end development skills.
-- PowerShell scripting to streamline workflows.
+- React.JS to expand my front-end development skills.
 
 📫 How to Reach Me: <br>
 - Email: chloe.ngo@torontomu.ca
